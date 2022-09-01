@@ -1,4 +1,4 @@
-## Java Banking System
+# Java Banking System
 
 Simple and robust banking system built in java utilising test-driven development and a MySQL database. 
 
@@ -9,9 +9,7 @@ Simple and robust banking system built in java utilising test-driven development
 4. Deposits.
 5. Display of personal, account and transaction information through SQL database queries.
 
-Please note the program will not run as the database variables have been set to null before pushing to Github. To run it, please create a MySQL database and change the url, username and password variables in src/Database.java. 
-
-### Example Screenshots
+## Example Screenshots
 
 **Creating an account:**
 
